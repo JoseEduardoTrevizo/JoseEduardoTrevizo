@@ -1,3 +1,4 @@
+<img src="https://giphy.com/embed/L8K62iTDkzGX6"  border="0"  width="900" height="250" />
 <h1 align="center">Hi 👋, I'm Eduardo Trevizo Pizano</h1>
 <h3 align="center">A passionate frontend developer from Mexico</h3>
 
