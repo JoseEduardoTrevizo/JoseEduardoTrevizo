@@ -1,4 +1,4 @@
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpndXBtYWI5dWEyNXFxMzZ2dTd4NWJmOGp0d2Z1cG9vbmllN3VidCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif"  border="0"  width="900" height="250" />
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpndXBtYWI5dWEyNXFxMzZ2dTd4NWJmOGp0d2Z1cG9vbmllN3VidCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif"  border="0"  width="1000" height="250" />
 <h1 align="center">Hi 👋, I'm Eduardo Trevizo Pizano</h1>
 <h3 align="center">A passionate frontend developer from Mexico</h3>
 
